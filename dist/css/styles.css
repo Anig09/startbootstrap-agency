@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #d4ecfb;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -2496,13 +2496,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #31bfe9;
-  border-color: #31bfe9;
+  background-color: #143d8c;
+  border-color: #143d8c;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #143d8c;
-  border-color: #84b2ca;
+  background-color: #d4ecfb;
+  border-color: #d4ecfb;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -6180,13 +6180,13 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #d4ecfb !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #dae0e5 !important;
+  background-color: #d4ecfb !important;
 }
 
 .bg-dark {
